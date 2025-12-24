@@ -47,10 +47,9 @@ At TUMARIS, I focus on:
 
 ## 📞 Connect With Me
 
-- **Email**: tushar@tumaris.com
-- **LinkedIn**: [linkedin.com/in/tushar-nirpane](https://linkedin.com/in/tushar-nirpane)
-- **Twitter**: [@tushar_nirpane](https://twitter.com/tushar_nirpane)
-- **Website**: [tumaris.com](https://tumaris.com)
+- **Email**: tusharnirpane07@gmail.com
+- **LinkedIn**: [linkedin.com/in/tushar-nirpane](https://www.linkedin.com/in/tushar-nirpane-a85aab394/)
+
 
 ---
 
