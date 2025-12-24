@@ -1,5 +1,5 @@
 # Tushar Nirpane
-## Founder & CTO | TechVision Labs
+## Founder & CTO | TUMARIS
 
 <p align="center">
   <strong>Building innovative software solutions | Full-stack developer | Tech entrepreneur</strong>
@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-I'm the Founder and Chief Technology Officer at **TechVision Labs**, where I lead the development of cutting-edge software solutions that empower businesses and transform ideas into scalable digital products. With expertise in full-stack development, cloud architecture, and open-source technologies, I'm passionate about building robust, efficient, and user-centric applications.
+I'm the Founder and Chief Technology Officer at **TUMARIS**, where I lead the development of cutting-edge software solutions that empower businesses and transform ideas into scalable digital products. With expertise in full-stack development, cloud architecture, and open-source technologies, I'm passionate about building robust, efficient, and user-centric applications.
 
 ## 💼 Leadership & Vision
 
-At TechVision Labs, I focus on:
+At TUMARIS, I focus on:
 - **Product Development**: Building scalable solutions that drive business impact
 - **Team Leadership**: Mentoring talented developers and fostering a culture of innovation
 - **Technology Strategy**: Leveraging emerging technologies to stay ahead of industry trends
@@ -40,17 +40,17 @@ At TechVision Labs, I focus on:
 
 ## 🎯 Current Focus
 
-- Scaling TechVision Labs globally
+- Scaling TUMARIS globally
 - Developing innovative SaaS products
 - Mentoring the next generation of developers
 - Contributing to open-source projects
 
 ## 📞 Connect With Me
 
-- **Email**: tushar@techvisionlabs.com
+- **Email**: tushar@tumaris.com
 - **LinkedIn**: [linkedin.com/in/tushar-nirpane](https://linkedin.com/in/tushar-nirpane)
 - **Twitter**: [@tushar_nirpane](https://twitter.com/tushar_nirpane)
-- **Website**: [techvisionlabs.com](https://techvisionlabs.com)
+- **Website**: [tumaris.com](https://tumaris.com)
 
 ---
 
